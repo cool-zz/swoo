@@ -8,13 +8,13 @@ var site = casper.cli.get(0);
 
 casper.start(site, function() {
     this.fill('form#postform', {
-        'field4':    'Captchas are for the lazy and uninspired.',
+        'field4':    'LOOOOOOOOL BUMP.',
     }, true);
 
 });
 
 casper.then(function() {
-   this.thenClick('#postsubmit');
+   this.click('input[type="submit"]');
 
 });
 
