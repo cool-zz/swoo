@@ -14,7 +14,7 @@ Requirements
 Usage
 -----
 - Add proxies to proxies.txt
-- From the command line, run "python supwoo.py"
+- From the command line, run "python swoo.py"
 - That's it
 
 Features
