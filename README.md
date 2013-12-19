@@ -26,5 +26,5 @@ Features
 Notes
 -----
 - Only tested on Linux 32 bit, but should work with other platforms/architectures which meet the dependency requirements
-- Please do not abuse this script, I would hate for the denizens of 420chan.org to suffer any inconvenience from  misue of this script :(
+- Please do not abuse this, I would hate for the denizens of 420chan.org to suffer any inconvenience from  misuse of this script :(
 - If you have any questions, join irc.hardchats.com #dadfuckers or tweet me @coolchatter
